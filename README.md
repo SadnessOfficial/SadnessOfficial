@@ -12,7 +12,7 @@
  - [ ] **~~Discord Server: [Narai](https://discord.gg/narai) [2021 - ထ]~~**
  - [ ] **~~Discord Server: [Hashira](https://discord.gg/hashira) [2021 - ထ]~~**
  - [ ] **~~(Other projects are hidden) [2019-2020-2021 - ထ]~~**	
-
+### 🔑 What i know:
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript) ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java) ![php](https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=php) ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python) ![Sql](https://img.shields.io/badge/Sql-090909?style=for-the-badge&logo=sqlite) ![Mongo](https://img.shields.io/badge/Mongo-090909?style=for-the-badge&logo=mongodb) ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript) ![C++](https://img.shields.io/badge/c++-090909?style=for-the-badge&logo=cplusplus) ![C](https://img.shields.io/badge/sharp-090909?style=for-the-badge&logo=csharp)
 
 > **At the moment, the rest of the information is in development**
