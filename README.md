@@ -14,3 +14,4 @@
  - [ ] **~~(Other projects are hidden) [2019-2020-2021 - ထ]~~**	
 
 > **At the moment, the rest of the information is in development**
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
