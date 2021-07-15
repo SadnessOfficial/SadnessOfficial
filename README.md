@@ -3,7 +3,7 @@
 ### 🖐 **Hey!**
 	  ┆ 🧬 I am human?
       ┆ 👦 My name is: Nazar.
-      ┆ 🔎 Gender: Male.
+      ┆ 🔎 Gender: Men.
       ┆ 🧪 Hobby: I like to learn something new by improving it, and not just steal some code.
 
  ### 🍕 About me:
