@@ -1,7 +1,7 @@
 ---
 ![enter image description here](https://media.discordapp.net/attachments/566696599359586323/862633776609624064/unknown.png?width=632&height=178)
 ### 🖐 **Hey!**
-	  ┆ 🧬 I am human?
+	  ┆ 🧬 what, where am I?
       ┆ 👦 My name is: Nazar.
       ┆ 🔎 Gender: Men.
       ┆ 🧪 Hobby: I like to learn something new by improving it, and not just steal some code.
