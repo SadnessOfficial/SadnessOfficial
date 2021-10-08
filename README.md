@@ -1,5 +1,4 @@
 ---
-![enter image description here](https://media.discordapp.net/attachments/566696599359586323/862633776609624064/unknown.png?width=632&height=178)
 ### 🖐 **Hey!**
 	  ┆ 🧬 what, where am I?
       ┆ 👦 My name is: Nazar.
