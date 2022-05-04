@@ -1,8 +1,5 @@
 ---
 ### 🖐 **Hey!**
-	  ┆ 🧬 what, where am I?
-      ┆ 👦 My name is: Nazar.
-      ┆ 🔎 Gender: Male.
       ┆ 🧪 Hobby: I like to learn something new by improving it, and not just steal some code.
 
 ### 🔑 My skils:
